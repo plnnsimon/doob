@@ -154,6 +154,7 @@ header {
   align-items: center;
   margin-right: -160px;
   margin-left: 80px;
+  overflow: hiden;
 }
 
 .main-content-bottom {
@@ -200,7 +201,7 @@ header {
   display: flex;
   flex-flow: wrap row;
   justify-content: space-between;
-  /* width: 1000px; */
+  overflow: hidden;
 }
 
 .works {
